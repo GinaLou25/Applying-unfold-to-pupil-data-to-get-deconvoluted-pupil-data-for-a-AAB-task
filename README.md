@@ -25,7 +25,7 @@ Data files needed (not provided, as the data does not belong to me):
 
 Toolboxes needed:
 - EEGLAB
-- Unfold
+- Unfold (Ehinger BV & Dimigen O, Unfold: An integrated toolbox for overlap correction, non-linear modeling, and regression-based EEG analysis, peerJ, https://peerj.com/articles/7838/)
 
 Extensions that might be needed (unsure which ones I actually used)
 - gramm
